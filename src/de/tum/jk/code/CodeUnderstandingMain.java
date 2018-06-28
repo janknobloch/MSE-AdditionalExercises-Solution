@@ -1,6 +1,6 @@
 package de.tum.jk.code;
 
-public class CodeUnderstanding {
+public class CodeUnderstandingMain {
 
 	public static void main(String[] args) {
 		int i = 5;
