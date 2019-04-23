@@ -1,4 +1,4 @@
-# MSE18-AdditionalExercises-Solution
+# MSE-AdditionalExercises-Solution
 
 ## This project contains four packages:
 
